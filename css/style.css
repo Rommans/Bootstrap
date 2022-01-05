@@ -1,0 +1,23 @@
+html {
+    font-family: 'Roboto' !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: coral !important;
+    border-color: coral !important;
+}
+
+.h3, h3 {
+    font-size: 1.75rem !important; 
+}
+
+.main_block1, .footer {
+    background-color: #3a3a40;
+    color: white;
+}
+
+.main_block2 {
+    background-color: #f8f9fa;
+    color: black;
+}
